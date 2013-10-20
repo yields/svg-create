@@ -1,0 +1,15 @@
+{
+  "name": "svg-create",
+  "repo": "yields/svg-create",
+  "description": "Create SVG elements",
+  "version": "0.0.1",
+  "keywords": ["svg"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha-matrix": "*",
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  }
+}
